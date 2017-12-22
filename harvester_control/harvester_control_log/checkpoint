@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/lhq/PycharmProjects/harvester_control/harvester_control_log/DDPG.ckpt"
+all_model_checkpoint_paths: "/home/lhq/PycharmProjects/harvester_control/harvester_control_log/DDPG.ckpt"
